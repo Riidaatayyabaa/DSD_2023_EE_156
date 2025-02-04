@@ -8,12 +8,16 @@
 
 * 1 code file (.sv)
 * 1 constraint file (.xdc)
+* 1 docs (.io)
 ### Report
 ### Task 1
-Contains truth table
+Truth table
+### Task 2
+The maximum combinational delay
 ### Task 3
-Contains the maximum combinational delay
-### Task 3
-Contains utilization report summary
+Resource utilization report summary
+### Task 4
+System verilog code
+
 
 
