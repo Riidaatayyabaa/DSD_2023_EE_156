@@ -1,4 +1,1 @@
 # DSD_2023_EE_156
-LAB 2
-<ba>
-Rida
