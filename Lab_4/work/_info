@@ -1,0 +1,81 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2024.1/examples
+T_opt
+!s110 1739958306
+V[TL5n>eYeHoD5Hl2=mOLB3
+04 8 4 work lab_4_tb fast 0
+=1-f81654015a68-67b5a820-3af-36f4
+R1
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+vLab4
+2C:/Users/DELL/OneDrive/Desktop/DSD/DSD_2023_EE_156/DSD_2023_EE_156/Lab_4/rtl.sv
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z4 !s110 1739958290
+!i10b 1
+!s100 [Sb0:U3N0Oj5Fn773eo7?1
+IR90EQnG^If:_Y^ORR@i:62
+S1
+Z5 dC:/Users/DELL/OneDrive/Desktop/DSD/DSD_2023_EE_156/DSD_2023_EE_156/Lab_4
+w1739958267
+8C:/Users/DELL/OneDrive/Desktop/DSD/DSD_2023_EE_156/DSD_2023_EE_156/Lab_4/rtl.sv
+FC:/Users/DELL/OneDrive/Desktop/DSD/DSD_2023_EE_156/DSD_2023_EE_156/Lab_4/rtl.sv
+!i122 9
+L0 2 13
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z8 !s108 1739958290.000000
+!s107 C:/Users/DELL/OneDrive/Desktop/DSD/DSD_2023_EE_156/DSD_2023_EE_156/Lab_4/rtl.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/DELL/OneDrive/Desktop/DSD/DSD_2023_EE_156/DSD_2023_EE_156/Lab_4/rtl.sv|
+!i113 0
+Z9 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@lab4
+vlab_4_tb
+2C:/Users/DELL/OneDrive/Desktop/DSD/DSD_2023_EE_156/DSD_2023_EE_156/Lab_4/lab_4 _tb.sv
+R3
+R4
+!i10b 1
+!s100 6NDXPaEK;L6R]zY?K2kO;0
+I3UoAXVU]6FPLNFngazQY_2
+S1
+R5
+w1739958258
+8C:/Users/DELL/OneDrive/Desktop/DSD/DSD_2023_EE_156/DSD_2023_EE_156/Lab_4/lab_4 _tb.sv
+FC:/Users/DELL/OneDrive/Desktop/DSD/DSD_2023_EE_156/DSD_2023_EE_156/Lab_4/lab_4 _tb.sv
+!i122 8
+L0 1 62
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/DELL/OneDrive/Desktop/DSD/DSD_2023_EE_156/DSD_2023_EE_156/Lab_4/lab_4 _tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/DELL/OneDrive/Desktop/DSD/DSD_2023_EE_156/DSD_2023_EE_156/Lab_4/lab_4 _tb.sv|
+!i113 0
+R9
+R2

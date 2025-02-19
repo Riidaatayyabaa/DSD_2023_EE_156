@@ -1,0 +1,8 @@
+{C:/Users/DELL/OneDrive/Desktop/DSD/DSD_2023_EE_156/DSD_2023_EE_156/Lab_4/lab_4 _tb.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/DELL/OneDrive/Desktop/DSD/DSD_2023_EE_156/DSD_2023_EE_156/Lab_4/lab_4 _tb.sv}
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module lab_4_tb
+
+Top level modules:
+	lab_4_tb
+
+} {} {}}
