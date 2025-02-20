@@ -6,8 +6,9 @@
 
 ### Simulation
 
-* 2 rtl files (.sv)
-* 2 testbench files (.sv)
+* 1 rtl files (.sv)
+* 1 testbench files (.sv)
+* 1 constraints file(.xdc)
 
 ### Report
 ### Task 1
